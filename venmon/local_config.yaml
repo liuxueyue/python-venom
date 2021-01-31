@@ -1,6 +1,6 @@
 #框架路径配置
 venom: {
-      FRAMEWORK_ROOT: &root_path E:\\venom\\venom, #venom根目录，只需修改这里即可
+      FRAMEWORK_ROOT: &root_path G:\\git_python\\venmon, #venom根目录，只需修改这里即可
       JSON_PATH: !splicing [*root_path,/temp_json],
       CONFIG_PATH: !splicing [*root_path,/temp_csv],
       CASE_ROOT: !splicing [*root_path,/config_case],
