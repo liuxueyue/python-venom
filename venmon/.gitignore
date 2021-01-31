@@ -1,0 +1,11 @@
+.idea/
+config_case/war/__pycache__/
+config_case/mars/__pycache__/
+local_config.yaml
+*.pyc
+temp_json/
+temp_csv/
+report/
+report
+debug.html
+.DS_Store
